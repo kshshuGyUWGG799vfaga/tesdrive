@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png",Cartoon Network (Transcorp)
-http://202.150.161.212:5000/live/channel1/playlist.m3u8
+http://202.150.161.212:5000/live/channel50/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png",Cartoon Network (Transcorp)
-http://202.150.161.212:5000/live/channel2/playlist.m3u8
+http://202.150.161.212:5000/live/channel51/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png",Cartoon Network (Transcorp)
-http://202.150.161.212:5000/live/channel3/playlist.m3u8
+http://202.150.161.212:5000/live/channel53/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png",Cartoon Network (Transcorp)
-http://202.150.161.212:5000/live/channel4/playlist.m3u8
+http://202.150.161.212:5000/live/channel54/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png",Cartoon Network (Transcorp)
-http://202.150.161.212:5000/live/channel5/playlist.m3u8
+http://202.150.161.212:5000/live/channel55/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png",Cartoon Network (Transcorp)
-http://202.150.161.212:5000/live/channel6/playlist.m3u8
+http://202.150.161.212:5000/live/channel56/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png",Cartoon Network (Transcorp)
-http://202.150.161.212:5000/live/channel7/playlist.m3u8
+http://202.150.161.212:5000/live/channel57/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png",Cartoon Network (Transcorp)
-http://202.150.161.212:5000/live/channel8/playlist.m3u8
+http://202.150.161.212:5000/live/channel58/playlist.m3u8
