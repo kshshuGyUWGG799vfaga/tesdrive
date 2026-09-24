@@ -24,69 +24,347 @@ http://202.150.161.212:5000/live/channel37/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES7
 http://202.150.161.212:5000/live/channel38/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES8
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES9
 http://202.150.161.212:5000/live/channel40/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES10
 http://202.150.161.212:5000/live/channel41/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES11
 http://202.150.161.212:5000/live/channel42/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES12
 http://202.150.161.212:5000/live/channel43/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES13
 http://202.150.161.212:5000/live/channel44/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES14
 http://202.150.161.212:5000/live/channel45/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES15
 http://202.150.161.212:5000/live/channel46/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES16
 http://202.150.161.212:5000/live/channel47/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES17
 http://202.150.161.212:5000/live/channel48/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES18
 http://202.150.161.212:5000/live/channel49/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES19
 http://202.150.161.212:5000/live/channel50/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES20
 http://202.150.161.212:5000/live/channel51/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES21
 http://202.150.161.212:5000/live/channel52/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES22
 http://202.150.161.212:5000/live/channel53/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES23
 http://202.150.161.212:5000/live/channel54/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES24
 http://202.150.161.212:5000/live/channel55/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES25
 http://202.150.161.212:5000/live/channel56/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES26
 http://202.150.161.212:5000/live/channel57/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES27
 http://202.150.161.212:5000/live/channel58/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES28
 http://202.150.161.212:5000/live/channel59/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES29
 http://202.150.161.212:5000/live/channel60/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES30
+http://202.150.161.212:5000/live/channel61/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES31
+http://202.150.161.212:5000/live/channel62/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES32
+http://202.150.161.212:5000/live/channel63/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES33
+http://202.150.161.212:5000/live/channel64/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES34
+http://202.150.161.212:5000/live/channel65/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES35
+http://202.150.161.212:5000/live/channel66/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES36
+http://202.150.161.212:5000/live/channel67/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES37
+http://202.150.161.212:5000/live/channel68/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES38
+http://202.150.161.212:5000/live/channel69/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES39
+http://202.150.161.212:5000/live/channel70/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES40
+http://202.150.161.212:5000/live/channel71/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES41
+http://202.150.161.212:5000/live/channel72/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES42
+http://202.150.161.212:5000/live/channel73/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES43
+http://202.150.161.212:5000/live/channel74/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES44
+http://202.150.161.212:5000/live/channel75/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES45
+http://202.150.161.212:5000/live/channel76/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES46
+http://202.150.161.212:5000/live/channel77/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES47
+http://202.150.161.212:5000/live/channel78/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES48
+http://202.150.161.212:5000/live/channel79/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES49
+http://202.150.161.212:5000/live/channel80/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES50
+http://202.150.161.212:5000/live/channel81/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES51
+http://202.150.161.212:5000/live/channel82/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES52
+http://202.150.161.212:5000/live/channel83/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES53
+http://202.150.161.212:5000/live/channel84/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES54
+http://202.150.161.212:5000/live/channel85/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES55
+http://202.150.161.212:5000/live/channel86/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES56
+http://202.150.161.212:5000/live/channel87/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES57
+http://202.150.161.212:5000/live/channel88/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES59
+http://202.150.161.212:5000/live/channel89/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES60
+http://202.150.161.212:5000/live/channel90/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES61
+http://202.150.161.212:5000/live/channel91/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES61
+http://202.150.161.212:5000/live/channel92/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES62
+http://202.150.161.212:5000/live/channel93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES63
+http://202.150.161.212:5000/live/channel94/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES64
+http://202.150.161.212:5000/live/channel95/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES65
+http://202.150.161.212:5000/live/channel96/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES66
+http://202.150.161.212:5000/live/channel97/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES67
+http://202.150.161.212:5000/live/channel98/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES68
+http://202.150.161.212:5000/live/channel99/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES69
+http://202.150.161.212:5000/live/channel100/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES70
+http://202.150.161.212:5000/live/channel101/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES71
+http://202.150.161.212:5000/live/channel102/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES72
+http://202.150.161.212:5000/live/channel103/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES73
+http://202.150.161.212:5000/live/channel104/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES75
+http://202.150.161.212:5000/live/channel105/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES76
+http://202.150.161.212:5000/live/channel106/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES77
+http://202.150.161.212:5000/live/channel107/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES78
+http://202.150.161.212:5000/live/channel108/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES79
+http://202.150.161.212:5000/live/channel109/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES80
+http://202.150.161.212:5000/live/channel110/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES81
+http://202.150.161.212:5000/live/channel111/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES82
+http://202.150.161.212:5000/live/channel112/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES83
+http://202.150.161.212:5000/live/channel113/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES84
+http://202.150.161.212:5000/live/channel114/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES85
+http://202.150.161.212:5000/live/channel115/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES86
+http://202.150.161.212:5000/live/channel116/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES87
+http://202.150.161.212:5000/live/channel1q7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES88
+http://202.150.161.212:5000/live/channel118/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES89
+http://202.150.161.212:5000/live/channel119/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES90
+http://202.150.161.212:5000/live/channel120/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES91
+http://202.150.161.212:5000/live/channel121/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES92
+http://202.150.161.212:5000/live/channel122/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES93
+http://202.150.161.212:5000/live/channel123/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES94
+http://202.150.161.212:5000/live/channel124/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES95
+http://202.150.161.212:5000/live/channel125/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES96
+http://202.150.161.212:5000/live/channel126/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES97
+http://202.150.161.212:5000/live/channel127/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES98
+http://202.150.161.212:5000/live/channel128/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES99
+http://202.150.161.212:5000/live/channel129/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES100
+http://202.150.161.212:5000/live/channel130/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES101
+http://202.150.161.212:5000/live/channel131/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES102
+http://202.150.161.212:5000/live/channel132/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES103
+http://202.150.161.212:5000/live/channel133/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES104
+http://202.150.161.212:5000/live/channel134/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES105
+http://202.150.161.212:5000/live/channel135/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES106
+http://202.150.161.212:5000/live/channel136/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES107
+http://202.150.161.212:5000/live/channel137/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES108
+http://202.150.161.212:5000/live/channel138/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES109
+http://202.150.161.212:5000/live/channel139/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png", TES110
+http://202.150.161.212:5000/live/channel140/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
